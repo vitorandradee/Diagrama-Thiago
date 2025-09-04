@@ -2,7 +2,7 @@
 arquivos do diagrama feito na aula.
 ---------------------------------------
 ---------------------------------------
-Grupo 1: LOJA ONLINE
+Grupo 1: sistema de recibo
 João Vitor Andrade de Almeida-01832994
 
 Kauã Raphael Lemos de Oliveira-01823587
