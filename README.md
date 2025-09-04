@@ -11,5 +11,5 @@ João Guilherme Soares Ramos-01808602
 
 Matheus Novaes Pereira de Melo-01787815 
 
-![Texto alternativo para a imagem](caminho/da/imagem.png)
+![diagrama](d7f7c3e0-5f4e-4002-b2af-99bd5fda11a4.JPG)
 
