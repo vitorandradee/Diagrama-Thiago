@@ -2,7 +2,8 @@
 arquivos do diagrama feito na aula.
 ---------------------------------------
 ---------------------------------------
-Grupo 1: sistema de recibo
+Grupo 1: SISTEMA DE RECIBO
+
 João Vitor Andrade de Almeida-01832994
 
 Kauã Raphael Lemos de Oliveira-01823587
